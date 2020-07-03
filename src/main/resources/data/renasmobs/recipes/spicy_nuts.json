@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "S"
+    ],
+    "key": {
+        "#": {
+            "item": "renasmobs:green_blaze_powder"
+        },
+        "S": {
+            "item": "renasmobs:peanuts"
+        }
+    },
+    "result": {
+        "item": "renasmobs:spicy_nuts",
+        "count": 1
+    }
+}
